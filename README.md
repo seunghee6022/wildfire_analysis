@@ -1,6 +1,6 @@
 # wildfire_analysis
 
-### wildfire Analysis Challenge: Tell a story about wildfire in an area of my choice.
+### Wildfire Analysis Challenge: Tell a story about wildfire in an area of my choice.
 
 ### Description
 * Choose any location
